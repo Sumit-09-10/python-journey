@@ -1,5 +1,5 @@
 #Basics 
-print("hi world")
+print("Hallow world")
 
 # Arithematic oprator
 #let 
